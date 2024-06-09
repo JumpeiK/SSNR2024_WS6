@@ -10,7 +10,6 @@ Please make sure to install below software before the workshop
 
 Build your bionic limb
 
-[Hands-on]
 CAD (get an idea on how to design a bionic limb)
 
 Required Software
