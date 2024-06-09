@@ -1,14 +1,15 @@
-**Welcome to SSNR WS6 repository
+Welcome to SSNR WS6 repository
 
-Please make sure to install below software before the workshop**
+Please make sure to install below software before the workshop
 - Matlab (https://uk.mathworks.com/products/matlab.html)
 - Fusion 360 (https://www.autodesk.co.uk/campaigns/education/fusion-360)
 - Arduino IDE (https://www.arduino.cc/)
 - CH340 driver (https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all)
 
-**Day 1st
+Day 1st
+
 Build your bionic limb
-**
+
 [Hands-on]
 CAD (get an idea on how to design a bionic limb) – 45 min
 Requried Software
