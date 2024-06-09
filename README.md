@@ -1,4 +1,4 @@
-Welcome to SSNR WS6 repository
+**Welcome to SSNR WS6 repository**
 
 Please make sure to install below software before the workshop
 - Matlab (https://uk.mathworks.com/products/matlab.html)
@@ -6,7 +6,7 @@ Please make sure to install below software before the workshop
 - Arduino IDE (https://www.arduino.cc/)
 - CH340 driver (https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all)
 
-Day 1st
+**Day 1st**
 
 Build your bionic limb
 
