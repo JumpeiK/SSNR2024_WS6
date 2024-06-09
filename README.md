@@ -11,8 +11,9 @@ Please make sure to install below software before the workshop
 Build your bionic limb
 
 [Hands-on]
-CAD (get an idea on how to design a bionic limb) – 45 min
-Requried Software
+CAD (get an idea on how to design a bionic limb)
+
+Required Software
 - Fusion 360
 File
 - WS6_Day1_task1_start.f3d
@@ -21,7 +22,8 @@ File
 - WS6_Day1_task2_end.f3d
 - WS6_result v1.f3d
 
-Assemble simplified limb (in 3 groups)  – 45 min
+Assemble simplified limb (in 3 groups) 
+
 Required Software
 - Arduino IDE
 - CH340 driver
