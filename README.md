@@ -9,9 +9,11 @@ Please make sure to install below software before the workshop
 **Day 1st**
 
 Build your bionic limb
+
 ![image](https://github.com/JumpeiK/SSNR2024_WS6/assets/114773134/6996f0d2-a2b0-408e-864a-f761660c8411)
 
 Lecture content (~20 min):
+
 Generics on Bionic Limb reconstruction
 
 Task (~1h 30 min): 
