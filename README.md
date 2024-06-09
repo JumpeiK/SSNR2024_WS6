@@ -14,12 +14,12 @@ Build your bionic limb
 
 Lecture content (~20 min):
 
-Generics on Bionic Limb reconstruction
+- Generics on Bionic Limb Reconstruction
 
 Task (~1h 30 min): 
-CAD (get an idea on how to design a bionic limb)
-Assemble simplified limb
-Actuate the hand by a code command
+- CAD (get an idea on how to design a bionic limb)
+- Assemble simplified limb
+- Actuate the hand by a code command
 
 **Day 2nd**
 
@@ -29,19 +29,20 @@ Muscle interfacing technics
 
 
 Lecture content (~30 min):
-Fundamental signal for motor control
-Interfacing with the Nervous system
-Feature extraction
-Data driven prosthesis control
+- Fundamental signal for motor control
+- Interfacing with the Nervous system
+- Feature extraction
+- Data driven prosthesis control
 
 Task (~1h 30 min): 
-Implement an algorithm to create a 2DOF regressor
+- Implement an algorithm to create a 2DOF regressor
 
 **Day 3rd**
 
 Integration into online bionic limb control
 
-![image](https://github.com/JumpeiK/SSNR2024_WS6/assets/114773134/91bf227d-1fef-4c60-a850-810a66075c99)
+![image](https://github.com/JumpeiK/SSNR2024_WS6/assets/114773134/1455d615-4660-47f0-bde0-6702f3a2d227)
+
 
 Task1 (~45min): 
 Online interfacing by using a neural interface device
