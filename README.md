@@ -1,3 +1,11 @@
+Welcome to SSNR WS6 repository
+
+Please make sure to install below software before the workshop
+- Matlab (https://uk.mathworks.com/products/matlab.html)
+- Fusion 360 (https://www.autodesk.co.uk/campaigns/education/fusion-360)
+- Arduino IDE (https://www.arduino.cc/)
+- CH340 driver (https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all)
+
 1st Day
 Build your bionic limb
 
@@ -16,4 +24,3 @@ Assemble simplified limb (in 3 groups)  – 45 min
 Required Software
 - Arduino IDE
 - CH340 driver
-![image](https://github.com/JumpeiK/SSNR2024_WS6/assets/114773134/1f4afff5-66c5-4a7c-9857-a664b3be7be7)
