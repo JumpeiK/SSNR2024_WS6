@@ -45,10 +45,10 @@ Integration into online bionic limb control
 
 
 Task1 (~45min): 
-Online interfacing by using a neural interface device
-Exploration on different gestures and labels
+- Online interfacing by using a neural interface device
+- Exploration on different gestures and labels
 
 Task2 (~45min): 
-Connect to a bionic hand and control by using your own muscle signals
+- Connect to a bionic hand and control by using your own muscle signals
 
 Wrap up and Q&A (30min)
