@@ -20,13 +20,13 @@ Task (~1h 30 min):
 CAD (get an idea on how to design a bionic limb)
 Assemble simplified limb
 Actuate the hand by a code command
-![image](https://github.com/JumpeiK/SSNR2024_WS6/assets/114773134/787f89f2-b36b-4d4f-8e71-a29fa6c030a1)
-
 
 **Day 2nd**
 
 Muscle interfacing technics
+
 ![image](https://github.com/JumpeiK/SSNR2024_WS6/assets/114773134/a454d573-4ff6-4415-91f3-c1333ff54274)
+
 Lecture content (~30 min):
 Fundamental signal for motor control
 Interfacing with the Nervous system
@@ -35,10 +35,11 @@ Data driven prosthesis control
 
 Task (~1h 30 min): 
 Implement an algorithm to create a 2DOF regressor
-![image](https://github.com/JumpeiK/SSNR2024_WS6/assets/114773134/441816f6-150e-4a0e-bc43-09e9db645646)
 
 **Day 3rd**
+
 Integration into online bionic limb control
+
 ![image](https://github.com/JumpeiK/SSNR2024_WS6/assets/114773134/91bf227d-1fef-4c60-a850-810a66075c99)
 
 Task1 (~45min): 
