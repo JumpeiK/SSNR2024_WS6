@@ -6,9 +6,9 @@ Please make sure to install below software before the workshop**
 - Arduino IDE (https://www.arduino.cc/)
 - CH340 driver (https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all)
 
-**1st Day**
-**Build your bionic limb**
-
+**Day 1st
+Build your bionic limb
+**
 [Hands-on]
 CAD (get an idea on how to design a bionic limb) – 45 min
 Requried Software
