@@ -25,7 +25,8 @@ Actuate the hand by a code command
 
 Muscle interfacing technics
 
-![image](https://github.com/JumpeiK/SSNR2024_WS6/assets/114773134/a454d573-4ff6-4415-91f3-c1333ff54274)
+![image](https://github.com/JumpeiK/SSNR2024_WS6/assets/114773134/7e13caec-08ca-4df1-aa9d-90d56a323524)
+
 
 Lecture content (~30 min):
 Fundamental signal for motor control
